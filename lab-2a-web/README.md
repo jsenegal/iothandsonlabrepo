@@ -6,7 +6,7 @@ This will use the branch you specific in the new-app.yaml file, not what the loc
 
 ## Option 1: Use the included new-app.yaml script
 
-Edit the script and update the Git Repo (default https://github.com/vincepower/rht-iot-demo.git) and branch (default master) as required.
+Edit the script and update the Git Repo (default https://github.com/vincepower/rht-iot-demo.git) and branch (set to "labs") as required.
 
 ### Commands
 ```
