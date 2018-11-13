@@ -27,7 +27,7 @@ items:
       contextDir: lab-2a-route
       git:
         ref: student-labs
-        uri: 'https://github.com/vincepower/rht-iot-demo.git'
+        uri: 'https://github.com/jsenegal/iothandsonlabrepo.git'
       type: Git
     strategy:
       sourceStrategy:
@@ -232,4 +232,3 @@ items:
             kind: ImageStreamTag
             name: 'lab-2a-route:latest'
         type: ImageChange
-
